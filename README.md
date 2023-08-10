@@ -44,4 +44,4 @@ The project uses an external API to fetch random quotes. The API endpoint is `ht
 
 ---
 
-Thank you for checking out my Random Quote Machine project! If you have any questions or feedback, feel free to contact me at your.email@example.com. Happy coding!
+Thank you for checking out my Random Quote Machine project! If you have any questions or feedback, feel free to contact me at kangkm19@gmail.com. Happy coding!
